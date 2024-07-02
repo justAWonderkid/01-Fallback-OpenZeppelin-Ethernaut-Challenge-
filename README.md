@@ -2,7 +2,7 @@
 
 `OpenZeppelin Ethernaut` is an educational platform that provides interactive and gamified challenges to help users learn about Ethereum smart contract security. It is developed by OpenZeppelin, a company known for its security audits, tools, and best practices in the blockchain and Ethereum ecosystem.
 
-OpenZeppelin Ethernaut Website: ethernaut.openzeppelin.com
+OpenZeppelin Ethernaut Website: [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/)
 
 # What You're Supposed to Do?
 
@@ -11,7 +11,7 @@ in `01-Fallback` Challenge, You Should Try To find a Way to Do the Following:
 1. You Claim ownership of the Contract From Someone else.
 2. Find a Way to Steal All Funds From the Contract.
 
-`01-Fallback` Challenge Link: ethernaut.openzeppelin.com/level/0x3c34A342b2aF5e885FcaA3800dB5B205fEfa3ffB
+`01-Fallback` Challenge Link: [ethernaut.openzeppelin.com/level/0x3c34A342b2aF5e885FcaA3800dB5B205fEfa3ffB](ethernaut.openzeppelin.com/level/0x3c34A342b2aF5e885FcaA3800dB5B205fEfa3ffB)
 
 
 # How to Complete this Challenge?
